@@ -9,4 +9,4 @@ channel.send(`Seuih8a9shd9asf8sdfhsd8fh9dfdfdufhu9sdfhsd9fsdfhsdfhdsfuhdsu9fdfhu
 }, 30)
 })
 
-client.login(NTIzMTI0ODA5MTgyNDc4MzM2.XU8bTg.lnAEDrC6c3vN85i9ZjFYLDfL2PQ);
+client.login(NTIzMTI0ODA5MTgyNDc4MzM2.XVGvGA.chxTTJv4cn078ieNspHyb2mvn74);
